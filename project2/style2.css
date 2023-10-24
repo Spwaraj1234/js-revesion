@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.canvas{
+    padding: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    text-align: center;
+    padding: 20px;
+    
+}
+#Height,
+#Weight{
+    margin: 1px 35px;
+    padding: 1px 20px;
+    height: 30px;
+    width: 150px;
+    
+}
+button{
+    height: 45px;
+    width: 100px;
+    border:2px solid black;
+   border-radius: 15px;
+
+   font-family: 'Courier New', Courier, monospace;
+}
+#results{
+    font-size: 20px;
+    color: brown;
+}
