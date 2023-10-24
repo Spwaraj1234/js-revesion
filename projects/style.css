@@ -1,0 +1,35 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+ h1{
+    color: brown;
+ }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  
